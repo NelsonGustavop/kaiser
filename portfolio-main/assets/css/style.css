@@ -49,7 +49,7 @@ header {
     width: 100%;
     background-color: #0c0c0c;
     border-bottom: #199de9 2px solid;
-    position: fixed;
+    
     z-index: 1000;
 }
 
